@@ -5,7 +5,7 @@ favorite_subject = input("Enter favorite subject: ")
 
 full_name = first_name + " " + last_name
 
-print(\n"Student Information")
+print("\nStudent Information")
 print("Name: ", full_name)
 print("Section: ", section)
 print("Favorite subject: " favorite_subject")
